@@ -1,0 +1,9 @@
+{
+  "name": "sir-rolins-momentum-turbo",
+  "version": "0.1.0",
+  "title": "Momentum Modules - Turbo",
+  "author": "Sir Rolin",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "sir-rolins-momentum-modules >= 0.2.0", "? space-age", "? quality"],
+  "description": "Adds ramping momentum modules: a Turbo version of every module type, plus Clean and Heat Up."
+}

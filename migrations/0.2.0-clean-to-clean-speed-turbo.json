@@ -1,0 +1,44 @@
+{
+  "item":
+  [
+    ["sr-mom-clean-1-0", "sr-mom-clean-speed-turbo-1-0"],
+    ["sr-mom-clean-1-1", "sr-mom-clean-speed-turbo-1-1"],
+    ["sr-mom-clean-1-2", "sr-mom-clean-speed-turbo-1-2"],
+    ["sr-mom-clean-1-3", "sr-mom-clean-speed-turbo-1-3"],
+    ["sr-mom-clean-1-4", "sr-mom-clean-speed-turbo-1-4"],
+    ["sr-mom-clean-1-5", "sr-mom-clean-speed-turbo-1-5"],
+    ["sr-mom-clean-1-6", "sr-mom-clean-speed-turbo-1-6"],
+    ["sr-mom-clean-1-7", "sr-mom-clean-speed-turbo-1-7"],
+    ["sr-mom-clean-1-8", "sr-mom-clean-speed-turbo-1-8"],
+    ["sr-mom-clean-1-9", "sr-mom-clean-speed-turbo-1-9"],
+    ["sr-mom-clean-1-10", "sr-mom-clean-speed-turbo-1-10"],
+    ["sr-mom-clean-2-0", "sr-mom-clean-speed-turbo-2-0"],
+    ["sr-mom-clean-2-1", "sr-mom-clean-speed-turbo-2-1"],
+    ["sr-mom-clean-2-2", "sr-mom-clean-speed-turbo-2-2"],
+    ["sr-mom-clean-2-3", "sr-mom-clean-speed-turbo-2-3"],
+    ["sr-mom-clean-2-4", "sr-mom-clean-speed-turbo-2-4"],
+    ["sr-mom-clean-2-5", "sr-mom-clean-speed-turbo-2-5"],
+    ["sr-mom-clean-2-6", "sr-mom-clean-speed-turbo-2-6"],
+    ["sr-mom-clean-2-7", "sr-mom-clean-speed-turbo-2-7"],
+    ["sr-mom-clean-2-8", "sr-mom-clean-speed-turbo-2-8"],
+    ["sr-mom-clean-2-9", "sr-mom-clean-speed-turbo-2-9"],
+    ["sr-mom-clean-2-10", "sr-mom-clean-speed-turbo-2-10"],
+    ["sr-mom-clean-3-0", "sr-mom-clean-speed-turbo-3-0"],
+    ["sr-mom-clean-3-1", "sr-mom-clean-speed-turbo-3-1"],
+    ["sr-mom-clean-3-2", "sr-mom-clean-speed-turbo-3-2"],
+    ["sr-mom-clean-3-3", "sr-mom-clean-speed-turbo-3-3"],
+    ["sr-mom-clean-3-4", "sr-mom-clean-speed-turbo-3-4"],
+    ["sr-mom-clean-3-5", "sr-mom-clean-speed-turbo-3-5"],
+    ["sr-mom-clean-3-6", "sr-mom-clean-speed-turbo-3-6"],
+    ["sr-mom-clean-3-7", "sr-mom-clean-speed-turbo-3-7"],
+    ["sr-mom-clean-3-8", "sr-mom-clean-speed-turbo-3-8"],
+    ["sr-mom-clean-3-9", "sr-mom-clean-speed-turbo-3-9"],
+    ["sr-mom-clean-3-10", "sr-mom-clean-speed-turbo-3-10"]
+  ],
+  "recipe":
+  [
+    ["sr-mom-clean-1-0", "sr-mom-clean-speed-turbo-1-0"],
+    ["sr-mom-clean-2-0", "sr-mom-clean-speed-turbo-2-0"],
+    ["sr-mom-clean-3-0", "sr-mom-clean-speed-turbo-3-0"]
+  ]
+}

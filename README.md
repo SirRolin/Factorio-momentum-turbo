@@ -1,7 +1,7 @@
 # Momentum Modules - Turbo
 
 A [Factorio](https://factorio.com) mod that adds ramping momentum modules: a Turbo version of every
-module type, plus Clean and Heat Up.
+module type, plus Heat Up.
 
 Turbo modules start weak and get stronger the longer a machine keeps running, reaching their full
 strength at 10 momentum. Stop the machine and the momentum decays again.
@@ -11,8 +11,12 @@ strength at 10 momentum. Stop the machine and the momentum decays again.
 | Module | Effect |
 | --- | --- |
 | `<type>` Turbo (tiers 1-3) | A ramping version of every module type in the module list. Effects scale from the min scaling setting at 0 momentum to the max scaling setting at 10. |
-| Clean (tiers 1-3) | A weaker speed module with no quality penalty and slightly less pollution. Maxes out at 65% of the matching speed module, times scaling. |
 | Heat Up (tiers 1-3) | A ramping mix of productivity and speed: 50% + 5% per momentum of both, times scaling / 2. |
+
+With [Clean Modules](https://github.com/SirRolin/Factorio-clean-modules) installed, its modules are
+in the module list too, so you also get a Clean `<type>` Turbo for each of them. This mod used to
+carry its own one-off Clean Module (`sr-mom-clean-*`); those are renamed to `sr-mom-clean-speed-turbo-*`
+in old saves by `migrations/0.2.0-clean-to-clean-speed-turbo.json`.
 
 ## Startup settings
 
@@ -25,8 +29,10 @@ strength at 10 momentum. Stop the machine and the momentum decays again.
 ## Dependencies
 
 - Factorio 2.0+
-- [Momentum Modules](https://github.com/SirRolin/Factorio-momentum-modules) 0.2.0+ — the library mod
-  that provides the momentum tracking, module generation and icon tinting used here.
+- [Momentum Modules](https://github.com/SirRolin/Factorio-momentum-modules) 0.2.0+ — the momentum
+  tracking and module generation used here.
+- [Sir Rolin's Module Library](https://github.com/SirRolin/Factorio-module-lib) 0.1.0+ — the module
+  family registry and the icon builders.
 - Optional: Space Age, Quality
 
 ## Related mods
